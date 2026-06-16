@@ -170,22 +170,10 @@ cd Linked-List
 
 ### 2. Compile the program
 
-If your file uses the `.c` extension, run:
+run the file by using :
 
 ```bash
 gcc File.c -o linkedlist
-```
-
-If your file is named `File` or `File.txt`, run:
-
-```bash
-gcc -x c File -o linkedlist
-```
-
-or:
-
-```bash
-gcc -x c File.txt -o linkedlist
 ```
 
 ### 3. Run the program
