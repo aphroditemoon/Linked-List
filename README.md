@@ -173,19 +173,19 @@ cd Linked-List
 If your file uses the `.c` extension, run:
 
 ```bash
-gcc Tugas.c -o linkedlist
+gcc File.c -o linkedlist
 ```
 
-If your file is named `Tugas` or `Tugas.txt`, run:
+If your file is named `File` or `File.txt`, run:
 
 ```bash
-gcc -x c Tugas -o linkedlist
+gcc -x c File -o linkedlist
 ```
 
 or:
 
 ```bash
-gcc -x c Tugas.txt -o linkedlist
+gcc -x c File.txt -o linkedlist
 ```
 
 ### 3. Run the program
@@ -209,7 +209,7 @@ For Linux or macOS:
 ```text
 Linked-List/
 │
-├── Tugas
+├── File
 └── README.md
 ```
 
@@ -248,18 +248,6 @@ By understanding this project, learners can build a stronger foundation for more
 - Tree
 - Graph
 - Hash Table
-
----
-
-## 📝 Future Improvements
-
-A few possible improvements for this project:
-
-- Add an interactive menu for user input
-- Add a search feature
-- Display the list from back to front using the `prev` pointer
-- Add memory allocation validation after `malloc()`
-- Improve the output format to make it more user-friendly
 
 ---
 
