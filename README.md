@@ -38,14 +38,14 @@ The program uses three main pointers:
 
 ## ✨ Key Features
 
-✅ Insert data at the front of the list  
-✅ Insert data at the back of the list  
-✅ Insert data after a specific value  
-✅ Delete data from the front of the list  
-✅ Delete data from the back of the list  
-✅ Delete data by a specific value  
-✅ Clear all data from the list  
-✅ Display the linked list from front to back  
+- Insert data at the front of the list  
+- Insert data at the back of the list  
+- Insert data after a specific value  
+- Delete data from the front of the list  
+- Delete data from the back of the list  
+- Delete data by a specific value  
+- Clear all data from the list  
+- Display the linked list from front to back  
 
 ---
 
@@ -265,14 +265,14 @@ A few possible improvements for this project:
 
 ## 👨‍💻 Author
 
-**Erlangga Putra Mahardika**  
+**Erlangga Mahardika**  
 Repository: `Linked-List`
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for checking out this project!
+### ⭐ Thanks for checking out this project! ⭐
 
 If you find this project helpful, feel free to give it a star.
 
